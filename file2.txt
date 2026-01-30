@@ -1,2 +1,4 @@
 first line data added to file2.txt
 second line data added to file2.txt
+third line data added to file2.txt
+fourth line data added to file2.txt
